@@ -19,6 +19,10 @@ Video:
 - "How to make a simple mod using the Godot Mod Loader"
   - https://youtu.be/ySLu3WGyIVw?t=148/
   - https://github.com/GodotModding/godot-mod-tool
+ 
+Forum:
+- Godot sandbox & modding support  [#7753](https://github.com/godotengine/godot/issues/7753)
+  
 
 **WebAsembly**  
 > Note that the tutorial on WASM are most in C# 😋
