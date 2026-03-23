@@ -14,6 +14,9 @@ Let’s find out.
 
 ----------------
 
+I did it ;)    
+"Super easy, barely an inconvenience"    
+[ADD VIDEO HERE]   
 
 Video:
 - "How to make a simple mod using the Godot Mod Loader"
