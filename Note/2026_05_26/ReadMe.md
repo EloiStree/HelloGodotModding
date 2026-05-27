@@ -1,3 +1,5 @@
+**Explication en video:**  
+https://youtu.be/hob2zVfCavc     
 
 # Parlons modding
 
